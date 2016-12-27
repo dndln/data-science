@@ -3,7 +3,9 @@
 <h3 align="center">Open Source Society University</h3>
 <p align="center">
   :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
+  <a href="https://github.com/open-source-society/data-science"><img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg"></a>
 </p>
+
 
 ## Contents
 
@@ -102,7 +104,7 @@ Courses | Duration | Effort
 [Introduction to Python for Data Science](https://prod-edx-mktg-edit.edx.org/course/introduction-python-data-science-microsoft-dat208x-1)| 6 weeks | 2-4 hours/week
 [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 weeks | 3-4 hours/week
 
-### Probability and Statistics with R
+### Probability and Statistics
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1#.U3yb762SzIo)| 16 weeks | 12 hours/week
@@ -132,7 +134,7 @@ Complete Kaggle's Getting Started and Playground Competitions
 ### Convex Optimization
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| - weeks | 10 hours/week
+[Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| 9 weeks | 10 hours/week
 
 ### Big Data
 Courses | Duration | Effort
@@ -153,7 +155,7 @@ Courses | Duration | Effort
 ### Deep Learning
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| - weeks | 8-12 hours/week
+[Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
 
 ### Capstone Project
 - Participate in Kaggle competition
@@ -266,7 +268,7 @@ You can [open an issue](https://help.github.com/articles/creating-an-issue/) and
 You can also [fork this project](https://help.github.com/articles/fork-a-repo/) and send a [pull request](https://help.github.com/articles/using-pull-requests/) to fix any mistakes that you have found.
 
 TODO:
-If you want to suggest a new resource, send a pull request adding such resource to the [extras](https://github.com/open-source-society/computer-science/tree/master/extras) section.
+If you want to suggest a new resource, send a pull request adding such resource to the [extras](https://github.com/open-source-society/data-science/tree/master/extras) section.
 
 The **extras** section is a place where all of us will be able to submit interesting additional articles, books, courses and specializations, keeping our curriculum *as immutable and concise as possible*.
 
